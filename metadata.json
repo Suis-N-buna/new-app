@@ -1,0 +1,6 @@
+{
+  "name": "SSU DORM - 숭실대학교 기숙사 생활 도우미",
+  "description": "숭실대학교 기숙사 학생들을 위한 세탁실 현황, 택배 확인, 시설 고장 신고, 물품 대여 및 기숙사 공지 통합 생활 도우미 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
